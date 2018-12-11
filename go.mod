@@ -172,6 +172,7 @@ require (
 	golang.org/x/crypto v0.0.0-20180322175230-88942b9c40a4
 	golang.org/x/net v0.0.0-20180906233101-161cd47e91fd
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
+	golang.org/x/sync v0.0.0-20180314180146-1d60e4601c6f
 	golang.org/x/sys v0.0.0-20180909124046-d0be0721c37e
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 // indirect
 	google.golang.org/api v0.0.0-20180818000503-e21acd801f91
