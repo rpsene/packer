@@ -4,6 +4,7 @@ env:
 os:
   - windows
   - linux
+  - linux-ppc64le
   - osx
 
 sudo: false
